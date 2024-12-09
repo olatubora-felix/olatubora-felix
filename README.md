@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Olatubora Felix  
 
 ### 🚀 About Me  
-I am a **Seasoned Software Engineer** with over **5+ years of expertise**, specializing in **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Node.js**.  
+I am a **Seasoned Software Engineer** with over **5+ years of expertise**, specializing in **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Laravel**.  
 
 I have a proven track record in developing **secure** and **high-performing SaaS web applications** and **Fintech solutions**, always prioritizing an exceptional **developer experience**.  
 
@@ -12,7 +12,7 @@ Passionate about **mentorship**, I enjoy driving projects forward while nurturin
 
 ### 🛠️ Tech Stack & Skills  
 - **Frontend:** React, Next.js, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS  
-- **Backend:** Node.js, REST APIs  
+- **Backend:** Laravel, Supabase, AppWrite, REST APIs  
 - **UI/UX:** PWA, Mobile-First Designs  
 - **Data Visualization:** Apache eCharts, React Flow, React Diagrams  
 - **SDK Development:** JavaScript SDKs  
