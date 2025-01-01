@@ -2,11 +2,15 @@
 # Hi there! 👋 I'm Olatubora Felix  
 
 ### 🚀 About Me  
-I am a **Seasoned Software Engineer** with over **6+ years of expertise**, specializing in **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Laravel**.  
+I am a **Senior Software Engineer** with 6+ years of experience specializing in JavaScript, TypeScript, React, Next.js, PHP, and Laravel. I build secure, scalable SaaS applications and FinTech solutions, excelling in state management, responsive design, and data visualization with tools like Redux, Tailwind CSS, and Apache eCharts.
 
-I have a proven track record in developing **secure** and **high-performing SaaS web applications** and **Fintech solutions**, always prioritizing an exceptional **developer experience**.  
+I bring deep expertise in Laravel, crafting RESTful APIs, integrating third-party services, and implementing robust authentication systems with Laravel Sanctum and Passport. Skilled in optimizing Eloquent ORM and database queries, I ensure high performance and maintainability in my applications.
 
-Passionate about **mentorship**, I enjoy driving projects forward while nurturing junior developers through **knowledge sharing**.
+A dedicated mentor, I am passionate about empowering junior developers through code reviews, technical guidance, and structured learning paths. I also specialize in PWAs, JavaScript SDKs, and testing frameworks like Jest and Vitest while leveraging modern tools like Webpack, Vite, and CI/CD pipelines. Thriving in agile teams, I collaborate seamlessly through Jira, Slack, and GitHub.
+
+Open to freelance, remote, or contract roles—let’s connect! 😊
+
+
 
 ---
 
