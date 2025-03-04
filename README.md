@@ -2,12 +2,7 @@
 # Hi there! 👋 I'm Olatubora Felix  
 
 ### 🚀 About Me  
-I am a **Senior Software Engineer** with 6+ years of experience specializing in JavaScript, TypeScript, React, Next.js, PHP, and Laravel. I build secure, scalable SaaS applications and FinTech solutions, excelling in state management, responsive design, and data visualization with tools like Redux, Tailwind CSS, and Apache eCharts.
-
-I bring deep expertise in Laravel, crafting RESTful APIs, integrating third-party services, and implementing robust authentication systems with Laravel Sanctum and Passport. Skilled in optimizing Eloquent ORM and database queries, I ensure high performance and maintainability in my applications.
-
-A dedicated mentor, I am passionate about empowering junior developers through code reviews, technical guidance, and structured learning paths. I also specialize in PWAs, JavaScript SDKs, and testing frameworks like Jest and Vitest while leveraging modern tools like Webpack, Vite, and CI/CD pipelines. Thriving in agile teams, I collaborate seamlessly through Jira, Slack, and GitHub.
-
+Seasoned **software Developer** with over 5 years of experience in software development, system architecture, and AI-driven solutions. Proficient in React, Next.js, React Native, and TypeScript, with a strong focus on building high-quality, scalable web and mobile applications. Skilled in Agile methodologies, coding, and debugging, with a passion for driving innovation through AI, technology, and forward-thinking software design.
 Open to freelance, remote, or contract roles—let’s connect! 😊
 
 
@@ -15,7 +10,7 @@ Open to freelance, remote, or contract roles—let’s connect! 😊
 ---
 
 ### 🛠️ Tech Stack & Skills  
-- **Frontend:** React, Next.js, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS  
+- **Frontend:** React,React Native, Next.js, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS  
 - **Backend:** Laravel, Supabase, AppWrite, REST APIs  
 - **UI/UX:** PWA, Mobile-First Designs  
 - **Data Visualization:** Apache eCharts, React Flow, React Diagrams  
