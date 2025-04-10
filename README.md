@@ -1,44 +1,18 @@
-
-# Hi there! 👋 I'm Olatubora Felix  
-
-### 🚀 About Me  
-Seasoned **software Developer** with over 5 years of experience in software development, system architecture, and AI-driven solutions. Proficient in React, Next.js, React Native, and TypeScript, with a strong focus on building high-quality, scalable web and mobile applications. Skilled in Agile methodologies, coding, and debugging, with a passion for driving innovation through AI, technology, and forward-thinking software design.
-Open to freelance, remote, or contract roles—let’s connect! 😊
+# 💫 About Me:
+<br># Hi there! 👋 I'm Olatubora Felix  <br><br>### 🚀 About Me  <br>Seasoned **software Developer** with over 5 years of experience in software development, system architecture, and AI-driven solutions. Proficient in React, Next.js, React Native, and TypeScript, with a strong focus on building high-quality, scalable web and mobile applications. Skilled in Agile methodologies, coding, and debugging, with a passion for driving innovation through AI, technology, and forward-thinking software design.<br>Open to freelance, remote, or contract roles—let’s connect! 😊<br><br><br><br>---<br><br>### 🛠️ Tech Stack & Skills  <br>- **Frontend:** React,React Native, Next.js, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS  <br>- **Backend:** Laravel, Supabase, AppWrite, REST APIs  <br>- **UI/UX:** PWA, Mobile-First Designs  <br>- **Data Visualization:** Apache eCharts, React Flow, React Diagrams  <br>- **SDK Development:** JavaScript SDKs  <br>- **Testing:** Jest, React Testing Library, Vitest  <br>- **Build & Automation Tools:** Webpack, Vite, GitHub Actions, CI/CD Pipelines  <br>- **Collaboration Tools:** Jira, Slack, Microsoft Teams, GitHub  <br><br>---<br><br>### 💡 What I Bring  <br>- Expertise in building scalable, user-friendly SaaS and Fintech platforms.  <br>- Strong proficiency in **complex data visualization** and **workflow-based solutions**.  <br>- Experience with **agile methodologies** in collaborative settings.  <br>- A passion for staying up-to-date with modern tech and sharing knowledge with others.  <br><br>---<br><br>### 🤝 Let's Connect!  <br>I’m always open to connecting, collaborating, and taking on new challenges. Whether it’s a **freelance**, **remote**, **on-site**, or **contract-based** project, feel free to reach out!<br><br>You can:  <br>- **Follow** me here on GitHub 🌟  <br>- **Reach out** for inquiries or job opportunities 💼  <br>- Or even just say **Hi**! 😊  <br><br>---<br><br>### 🌱 Always Exploring  <br>While I specialize in the above technologies, I’m eager to dive into other stacks and expand my horizons! 🚀  <br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felix-olawole-olatubora/) 
 
----
-
-### 🛠️ Tech Stack & Skills  
-- **Frontend:** React,React Native, Next.js, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS  
-- **Backend:** Laravel, Supabase, AppWrite, REST APIs  
-- **UI/UX:** PWA, Mobile-First Designs  
-- **Data Visualization:** Apache eCharts, React Flow, React Diagrams  
-- **SDK Development:** JavaScript SDKs  
-- **Testing:** Jest, React Testing Library, Vitest  
-- **Build & Automation Tools:** Webpack, Vite, GitHub Actions, CI/CD Pipelines  
-- **Collaboration Tools:** Jira, Slack, Microsoft Teams, GitHub  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=olatubora-felix&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=olatubora-felix&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=olatubora-felix&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=olatubora-felix&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💡 What I Bring  
-- Expertise in building scalable, user-friendly SaaS and Fintech platforms.  
-- Strong proficiency in **complex data visualization** and **workflow-based solutions**.  
-- Experience with **agile methodologies** in collaborative settings.  
-- A passion for staying up-to-date with modern tech and sharing knowledge with others.  
-
----
-
-### 🤝 Let's Connect!  
-I’m always open to connecting, collaborating, and taking on new challenges. Whether it’s a **freelance**, **remote**, **on-site**, or **contract-based** project, feel free to reach out!
-
-You can:  
-- **Follow** me here on GitHub 🌟  
-- **Reach out** for inquiries or job opportunities 💼  
-- Or even just say **Hi**! 😊  
-
----
-
-### 🌱 Always Exploring  
-While I specialize in the above technologies, I’m eager to dive into other stacks and expand my horizons! 🚀  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
