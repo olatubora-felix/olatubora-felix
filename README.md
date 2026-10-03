@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olatubora Felix
 
-### Senior Software Engineer | Backend & Full-Stack | Fintech | System Architecture
+### Senior Software Engineer | Fintech | System Architecture
 
 I’m a **Senior Software Engineer with 7+ years of experience** building scalable applications and digital platforms across **fintech, investment banking, logistics, healthtech, and e-commerce**.
 
